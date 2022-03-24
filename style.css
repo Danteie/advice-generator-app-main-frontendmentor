@@ -52,3 +52,7 @@ h1::before{
     border: none;
     
 }
+
+.dice:hover{
+    box-shadow: 0px 0px 20px 10px hsla(150, 100%, 66%,0.5);
+}
